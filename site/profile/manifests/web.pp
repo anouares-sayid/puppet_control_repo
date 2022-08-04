@@ -6,6 +6,5 @@ class profile::web{
     ip           => '172.18.0.2',
      target       => '/etc/hosts',
         }
-    }
-
+    
 }
